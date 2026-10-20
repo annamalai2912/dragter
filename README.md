@@ -204,6 +204,19 @@ The compiled installer will be generated in `dist/Dragter-Setup-v1.0.0.exe`.
 
 ---
 
+## 🔮 Future Scope & Roadmap
+
+Dragter is continuously evolving with high-impact features planned across upcoming releases:
+
+- **Phase 1: Multi-File Batch Queues**: Drag and batch-convert dozens of files simultaneously with parallel thread workers; PDF merge and split suites.
+- **Phase 2: Video & Audio Engine**: Instant video-to-GIF converter, lossless video compression presets (Discord/WhatsApp), and 1-click audio extraction.
+- **Phase 3: 100% Offline AI Vision**: Local neural networks (ONNX/DirectML) for 1-click on-device AI background removal, 4x super-resolution upscaling, and handwriting OCR.
+- **Phase 4: Ecosystem & Plugins**: Python plugin SDK (`@dragter.action`), custom radial wheel configurator, WinGet package distribution (`winget install AnnamalaiKM.Dragter`), and Windows 11 context menu integration.
+
+👉 **Read the full engineering roadmap in [docs/ROADMAP.md](docs/ROADMAP.md).**
+
+---
+
 ## 📄 License
 
 This project is open-source software licensed under the **MIT License**.  
