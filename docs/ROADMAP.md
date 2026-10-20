@@ -1,6 +1,6 @@
 # 🗺 Dragter: Future Scope & Strategic Roadmap
 
-*Authored by Founder & Lead Architect: **Annamalai KM***  
+*Authored by Creator & Lead Architect: **Annamalai KM***  
 *Document Version: 1.0.0 | Target Lifecycle: 2026 – 2028*
 
 ---

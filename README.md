@@ -4,7 +4,7 @@
 
 **Ultra-Fast, Offline Radial Utility HUD & File Transformation Suite for Windows**
 
-*Created & Founded by **Annamalai KM***
+*Created by **Annamalai KM***
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?style=for-the-badge)](https://github.com/annamalai2912/dragter/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6.svg?style=for-the-badge&logo=windows)](https://microsoft.com/windows)
@@ -21,9 +21,9 @@
 
 ---
 
-## 👨‍💻 Founder & Leadership
+## 👨‍💻 Creator & Leadership
 
-- **Founder & Lead Architect:** **Annamalai KM** ([@annamalai2912](https://github.com/annamalai2912))
+- **Creator & Lead Architect:** **Annamalai KM** ([@annamalai2912](https://github.com/annamalai2912))
 - **Email:** annamalai2912002@gmail.com
 - **Project Repository:** [github.com/annamalai2912/dragter](https://github.com/annamalai2912/dragter)
 

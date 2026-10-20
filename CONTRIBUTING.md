@@ -1,6 +1,6 @@
 # Contributing to Dragter
 
-Thank you for your interest in contributing to **Dragter**, founded by **Annamalai KM**!
+Thank you for your interest in contributing to **Dragter**, created by **Annamalai KM**!
 
 ## How to Contribute
 

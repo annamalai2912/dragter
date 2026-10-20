@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2026-10-20 — Initial Production Release
 
-*Founded and Architected by **Annamalai KM***
+*Created and Architected by **Annamalai KM***
 
 ### 🚀 Highlights
 - **Universal Shift+Drag Trigger**: Hold <kbd>Shift</kbd> while dragging any file to summon the radial HUD.
