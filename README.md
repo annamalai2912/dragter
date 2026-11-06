@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="assets/cover.png" alt="Dragter Banner" width="100%" />
+
+<br/>
+<br/>
+
 # ⚡ Dragter
 
 **Ultra-Fast, Offline Radial Utility HUD & File Transformation Suite for Windows**
@@ -152,7 +157,9 @@ python main.py
 ```
 dragter/
 ├── assets/                  # High-resolution application icons and brand graphics
-│   └── app_icon.ico         # Multi-size Windows application icon (16x16 - 256x256)
+│   ├── app_icon.ico         # Multi-size Windows application icon (16x16 - 256x256)
+│   ├── cover.png            # High-resolution repository cover banner
+│   └── drag.png             # Gesture indicator & branding graphic
 ├── dragter/                 # Main Python package
 │   ├── app.py               # Application orchestrator, single-instance mutex, hotkeys
 │   ├── core/                # System & engine layer
